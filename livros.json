@@ -1,0 +1,82 @@
+[
+    {
+        "titulo": "To All the Boys I've Loved Before",
+        "autor": "Jenny Han",
+        "ano": 2014,
+        "paginas": 320,
+        "sinopse": "Lara Jean Song Covey escreve cartas de amor secretas para todos os seus antigos paqueras. Um dia, as cartas são misteriosamente enviadas para os destinatários, virando sua vida de cabeça para baixo.",
+        "preco": 55
+    },
+    {
+        "titulo": "To All the Boys: P.S. I Still Love You",
+        "autor": "Jenny Han",
+        "ano": 2015,
+        "paginas": 357,
+        "sinopse": "Lara Jean e Peter Kavinsky vivem um namoro real. A trama se complica quando John Ambrose, um antigo destinatário de suas cartas, reaparece, forçando Lara Jean a decidir se é possível amar dois garotos ao mesmo tempo",
+        "preco": 62
+    },
+    {
+        "titulo": "To All The Boys: Always And Forever",
+        "autor": "Jenny Han",
+        "ano": 2017,
+        "paginas": 304,
+        "sinopse": "Lara Jean no último ano do ensino médio, planejando um futuro com Peter na Universidade da Virgínia. Após uma viagem à Coreia e a rejeição de Stanford, ela repensa seus planos e enfrenta o desafio de um relacionamento à distância",
+        "preco": 79
+    },
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "paginas": 368,
+        "sinopse": "Narra a descoberta de Harry, um órfão maltratado, de que é bruxo aos 11 anos. Ele ingressa na Escola Hogwarts, faz amigos (Rony e Hermione) e descobre que é famoso por sobreviver a Lord Voldemort. O trio impede que a Pedra Filosofal, que concede imortalidade, seja roubada",
+        "preco": 30
+    },
+    {
+        "titulo": "Harry Potter e a Câmara Secreta",
+        "autor": "J.K. Rowling",
+        "ano": 1998,
+        "paginas": 287,
+        "sinopse": "Harry Potter e a Câmara Secreta segue o segundo ano de Harry em Hogwarts, onde uma lenda antiga se torna real: a Câmara Secreta foi aberta, petrificando alunos nascidos trouxas. Harry, Rony e Hermione investigam o mistério, suspeitando que o herdeiro de Sonserina libertou um monstro, enquanto Harry descobre que consegue falar com cobras.",
+        "preco": 50
+    },
+    {
+        "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "autor": "J.K. Rowling",
+        "ano": 1999,
+        "paginas": 368,
+        "sinopse": "Terceiro ano de Harry em Hogwarts, o perigoso bruxo Sirius Black escapa da prisão de Azkaban, ameaçando a vida do protagonista. Com dementadores patrulhando a escola, Harry descobre segredos sobre o passado de seus pais, a traição de Black e laços de amizade.",
+        "preco": 30
+    },
+    {
+        "titulo": "Harry Potter e o Cálice de Fogo ",
+        "autor": "J.K. Rowling",
+        "ano": 2000,
+        "paginas": 584,
+        "sinopse": "Narra o quarto ano de Harry em Hogwarts, marcado pelo perigoso Torneio Tribruxo. Contra sua vontade, Harry é selecionado pelo Cálice para competir, enfrentando desafios mortais, amores adolescentes e o retorno triunfal de Lord Voldemort.",
+        "preco": 30
+    },
+    {
+        "titulo": "Harry Potter e a Ordem da Fênix",
+        "autor": "J.K. Rowling",
+        "ano": 2003,
+        "paginas": 704,
+        "sinopse": "Harry enfrenta o descrédito do Ministério da Magia sobre o retorno de Voldemort em seu 5º ano. Com Dolores Umbridge impondo ensino teórico em Hogwarts, Harry cria a Armada de Dumbledore para treinar defesa prática, enquanto a ordem secreta prepara-se para a guerra.",
+        "preco": 40
+    },
+    {
+        "titulo": "Harry Potter e o Enigma do Príncipe ",
+        "autor": "J.K. Rowling",
+        "ano": 2005,
+        "paginas": 544,
+        "sinopse": "Foca na preparação de Harry por Dumbledore para a guerra contra Voldemort, explorando o passado do vilão através de memórias. Harry descobre um livro de poções antigo pertencente ao Príncipe Mestiço e lida com o romance adolescente, enquanto Draco Malfoy planeja algo em Hogwarts. ",
+        "preco": 50
+    },
+    {
+        "titulo": "Harry Potter e as Relíquias da Morte",
+        "autor": "J.K. Rowling",
+        "ano": 2007,
+        "paginas": 592,
+        "sinopse": "Harry, Rony e Hermione abandonam Hogwarts para encontrar e destruir as Horcruxes restantes de Voldemort. Enquanto o mundo mágico cai sob o controle do Lorde das Trevas, o trio busca as Relíquias da Morte — três objetos mágicos lendários — culminando na batalha final em Hogwarts.",
+        "preco": 40
+    }
+]
