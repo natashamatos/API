@@ -1,6 +1,6 @@
 [  
     {
-    "Titular": "Natasha Alexandra Matos Quero",
+    "Nome": "Natasha Alexandra Matos Quero",
     "Agência": "1234",
     "Número": "56789-0",
     "CPF": "712.689.542-92",
@@ -9,7 +9,7 @@
     "Chave PIX": "71268954292"
     },
     {
-    "Titular": "Antonio Wesley Paes de Souza",
+    "Nome": "Antonio Wesley Paes de Souza",
     "Agência": "6428",
     "Número": "14785-9",
     "CPF": "162.817.189-84",
@@ -18,7 +18,7 @@
     "Chave PIX": "16281778984"
     },
     {
-    "Titular": "Nataly Enriqueta Quero Ahmad",
+    "Nome": "Nataly Enriqueta Quero Ahmad",
     "Agência": "5678",
     "Número": "33345-9",
     "CPF": "712.689.562-75",
